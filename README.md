@@ -1,2 +1,2 @@
-# calculus
-makan, tidur
+# INFORMATIKA
+Infor seru
